@@ -9,8 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.raycloud</groupId>
-    <artifactId>raycloud-generator</artifactId>
-    <version>0.0.1.RELEASE</version>
+    <artifactId>docker-test</artifactId>
     <packaging>jar</packaging>
 
     <name>raycloud-generator</name>
